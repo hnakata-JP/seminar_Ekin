@@ -8,8 +8,8 @@
 
 
 # Time table (2025-)
-- 09/22(月) 【陳】: 1章 1.5はスキップ ([slides](./slides/ekin_chapter1.pdf))
-- 09/29(月) 【阿部】: 2章 2.6まで ([resume](./slides/.pdf), [recording](https://cernbox.cern.ch/s/EsC9wsiodiJMnAq))
+- 09/22(月) 【陳】: 1章 1.5はスキップ ([slides](./materials/ekin_chapter1.pdf))
+- 09/29(月) 【阿部】: 2章 2.6まで ([resume](./materials/.pdf), [recording](https://cernbox.cern.ch/s/EsC9wsiodiJMnAq))
 - 10/10(金) 【渡邉】: 2章 2.7以降
 - 10/17(金) 【中園】: 3章 前半
 - 10/24(金) 【中園】: 3章 後半
