@@ -10,8 +10,7 @@
 # Time table (2025-)
 - 09/22(月) 【陳】: 1章 1.5はスキップ ([slides](./materials/material_chap1.pdf))
 - 09/29(月) 【阿部】: 2章 2.6まで ([resume](./materials/material_chap2.pdf), [recording](https://cernbox.cern.ch/s/EsC9wsiodiJMnAq))
-- 10/17(金) 【中園】: 3章 前半 ([slides](./materials/material_chap3a.pdf)), [recording](https://cern.zoom.us/rec/share/C8wqCBC-v27aWjvmEZp01CpFlSI3vHGmpI8x5-7G46Bls6DShkutaVapgNU4QfeU.XEjYbDrWGwWZoBDG 
-Passcode: DRr^n@58)
+- 10/17(金) 【中園】: 3章 前半 ([slides](./materials/material_chap3a.pdf)), [recording](https://cern.zoom.us/rec/share/C8wqCBC-v27aWjvmEZp01CpFlSI3vHGmpI8x5-7G46Bls6DShkutaVapgNU4QfeU.XEjYbDrWGwWZoBDG)(Passcode: DRr^n@58)
 - 10/24(金) 【中園】: 3章 後半
 - 10/31(金) 【中田】: 4章 前半
 - 11/07(金) 【中田】: 4章 後半
